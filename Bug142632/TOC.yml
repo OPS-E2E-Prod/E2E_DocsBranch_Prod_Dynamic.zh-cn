@@ -1,7 +1,7 @@
-- name: 首页
-  href: 首页.md
-- name: BuildPDF文件
-  href: pdf文件.md
+- name: Index
+  href: index.md
+- name: BuildPDF
+  href: pdf.md
 - name: devtask194647
   items:
   - name: cs-cz
